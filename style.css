@@ -1,0 +1,10 @@
+td{
+    border: 2px;
+    border-style: groove;
+    border-width: 10%;
+
+}
+th{
+    border: 2px;
+    border-style: groove;
+}
